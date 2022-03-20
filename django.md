@@ -1,0 +1,1 @@
+# Notes file related to Corey's Django playlist building PyShop.
